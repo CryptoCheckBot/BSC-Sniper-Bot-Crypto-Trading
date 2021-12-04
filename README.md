@@ -10,7 +10,7 @@ Help & Download Bot @Telegram: https://t.me/bsc_trading_bot
 
 Trading Bot for a small donation! With it we develop the program always further! 
 
-Binance Coin BNB: bnb1ukjtejzudvzyn5rv322dygwlrvmn20s3y2n9tg
+Binance Coin Address on BNB Network: bnb1ukjtejzudvzyn5rv322dygwlrvmn20s3y2n9tg
 
 -------------------------------------------------------------------------------
 
