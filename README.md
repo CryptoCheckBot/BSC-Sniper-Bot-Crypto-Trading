@@ -6,9 +6,9 @@ BSC BNB token sniper The BSC token sniper listens for new blocks on BSC relating
 -------------------------------------------------------------------------------
 
 #Telegram
-Download Bot @Telegram: https://t.me/bsc_trading_bot
+Help & Download Bot @Telegram: https://t.me/bsc_trading_bot
 
-Password for a small donation!
+Trading Bot for a small donation! With it we develop the program always further! 
 
 -------------------------------------------------------------------------------
 
