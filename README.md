@@ -13,6 +13,7 @@ Password for a small donation!
 
 
 #Functions
+
 Auto Buying
 
 Auto Selling
@@ -29,4 +30,4 @@ HoneypotCheck (optional)
 
 BuyWhitelist (optional)
 
-No Dev fee
+No Dev fee!!!!!
